@@ -1,4 +1,4 @@
-# 👨‍🚀 Hi, I'm Tanmay Tiwari  
+# Hi, I'm Tanmay Tiwari  
 ### Aerospace Engineering Student | GenAI & Data Science Enthusiast
 
 > "The distance between insanity and genius is measured only by success." — *Bruce Feirstein*
